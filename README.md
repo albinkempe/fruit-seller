@@ -1,9 +1,7 @@
-# Skill
-Template skill
+# Furhat Fruit Seller Skill
 
 ## Description
-This is a skill template, see [the docs](https://docs.furhat.io/skills/#the-contents-of-a-skill) for a breakdown of the content. 
-For more example skills go to [our Github](https://github.com/FurhatRobotics/)
+This is a furhat fruit seller skill.
 
 ## Usage
 Max number of users is set to: 2
