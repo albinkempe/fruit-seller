@@ -22,5 +22,4 @@ val Parent: State = state {
             !furhat.isAttending(it) -> furhat.glance(it.head.location) // other user left, just glance
         }
     }
-
 }
